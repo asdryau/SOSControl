@@ -6,6 +6,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-<2601.14258>-<COLOR>.svg)](https://arxiv.org/abs/2601.14258)
 [![Supplementary](https://img.shields.io/badge/Supplementary%20Material-grey?style=flat&logo=Files&logoColor=white)](https://drive.google.com/file/d/1t-f0oKyfkU_MEslQkFVfFg8g9Hf45OD0/view?usp=sharing)
 
+<p align="center">
+<img src="https://github.com/asdryau/SOSControl/blob/main/teaser.jpg" width="75%"/>
+</p>
+
 ## 🎯 Abstract
 <b>TL;DR</b>
 > We present the SOS script and SOSControl framework for saliency-aware and precise control of body part orientation and motion timing in text-to-motion generation.
